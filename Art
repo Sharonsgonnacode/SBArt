@@ -35,21 +35,8 @@ $("li").hover(function(){
   $(this).css("background-color", "pink");
 });
 
-/*var main = function() {
-$(".nav").hover(function(event) {
-$(".li").toggleClass('active') }
-});
-};
-
-
-var main = function() {
- $(".container").click(function(event) {
- $(".customImg0").transform().rotate(45deg);
- $(".customImg1").transform().rotate(45deg);
- });
- };*/
-
 $(document).ready(main); 
+
 </script>	
 <br>
 </div>
